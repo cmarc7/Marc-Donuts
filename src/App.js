@@ -63,7 +63,7 @@ function App() {
               title='Pedí en MarcDonuts'
               des='Pedí en la página y lo que pidas llegará a tu domicilio'
               btnTxt='PEDÍ YA!'
-              href='https://marcdonuts-productos.netlify.app/cd' />
+              href='https://marcdonuts-productos.netlify.app/' />
           </div>
         </div>
       </section>
