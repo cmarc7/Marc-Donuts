@@ -27,7 +27,7 @@ function App() {
                   href="mailto:costantinimarcelo314@gmail.com" />
                 <NavItem
                   texto="Productos"
-                  href="productos.html" />
+                  href="https://marcdonuts-productos.netlify.app/" />
                 <NavItem
                   texto="Sobre Nosotros"
                   href="MarcDonuts.html" />
@@ -62,7 +62,8 @@ function App() {
               img='donuts_lead'
               title='Pedí en MarcDonuts'
               des='Pedí en la página y lo que pidas llegará a tu domicilio'
-              btnTxt='PEDÍ YA!' />
+              btnTxt='PEDÍ YA!'
+              href='https://marcdonuts-productos.netlify.app/cd' />
           </div>
         </div>
       </section>
